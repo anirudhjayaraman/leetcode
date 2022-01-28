@@ -9,3 +9,5 @@ Challenges completed so far (in the order in which I approach them) include:
 - *#1365*: [How Many Numbers Are Smaller than Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 - *#704*: [Binary Search](https://leetcode.com/problems/binary-search/)
 - *#4*: [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- *#520*: [Detect Capital](https://leetcode.com/problems/detect-capital/)
+- *#3*: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
