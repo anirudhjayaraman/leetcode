@@ -3,6 +3,8 @@
 
 This README file is to be updated as and when I complete another Leetcode problem. I plan to start with Python and follow up later with C++.
 
+Python code is placed in folder named `/python`
+
 Challenges completed so far (in the order in which I approach them) include:
 - *#1678*: [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
 - *#1436*: [Destination City](https://leetcode.com/problems/destination-city/)
