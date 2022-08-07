@@ -16,3 +16,4 @@ Challenges completed so far (in the order in which I approach them) include:
 - *#12*: [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 - *#13*: [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - *#17*: [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+- *#5*: [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
